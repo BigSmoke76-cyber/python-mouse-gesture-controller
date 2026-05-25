@@ -1,6 +1,6 @@
 # Hand Gesture Mouse Controller
 
-Control your computer's mouse using your webcam and hand gestures! 
+A Python-based computer vision application that allows you to control your mouse, scroll, minimize windows, and cycle through the Alt-Tab menu entirely using hand gestures via your webcam. Built using OpenCV and MediaPipe. 
 
 ## Features & Gestures
 
